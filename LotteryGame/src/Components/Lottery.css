@@ -1,0 +1,18 @@
+.Ticket
+{
+    border: 2.5px solid white;
+    border-radius: 2px;
+    height: 50px;
+    width: 160px;
+    margin: auto;
+    text-align: center;
+
+}
+span{
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+}   
+h1{
+     font-family: cursive;
+}
